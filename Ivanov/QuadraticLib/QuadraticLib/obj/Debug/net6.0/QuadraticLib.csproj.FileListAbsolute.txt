@@ -1,0 +1,11 @@
+E:\Kyrsova_Semestr_3\Ivanov\QuadraticLib\QuadraticLib\bin\Debug\net6.0\QuadraticLib.deps.json
+E:\Kyrsova_Semestr_3\Ivanov\QuadraticLib\QuadraticLib\bin\Debug\net6.0\QuadraticLib.dll
+E:\Kyrsova_Semestr_3\Ivanov\QuadraticLib\QuadraticLib\bin\Debug\net6.0\QuadraticLib.pdb
+E:\Kyrsova_Semestr_3\Ivanov\QuadraticLib\QuadraticLib\obj\Debug\net6.0\QuadraticLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kyrsova_Semestr_3\Ivanov\QuadraticLib\QuadraticLib\obj\Debug\net6.0\QuadraticLib.AssemblyInfoInputs.cache
+E:\Kyrsova_Semestr_3\Ivanov\QuadraticLib\QuadraticLib\obj\Debug\net6.0\QuadraticLib.AssemblyInfo.cs
+E:\Kyrsova_Semestr_3\Ivanov\QuadraticLib\QuadraticLib\obj\Debug\net6.0\QuadraticLib.csproj.CoreCompileInputs.cache
+E:\Kyrsova_Semestr_3\Ivanov\QuadraticLib\QuadraticLib\obj\Debug\net6.0\QuadraticLib.dll
+E:\Kyrsova_Semestr_3\Ivanov\QuadraticLib\QuadraticLib\obj\Debug\net6.0\refint\QuadraticLib.dll
+E:\Kyrsova_Semestr_3\Ivanov\QuadraticLib\QuadraticLib\obj\Debug\net6.0\QuadraticLib.pdb
+E:\Kyrsova_Semestr_3\Ivanov\QuadraticLib\QuadraticLib\obj\Debug\net6.0\ref\QuadraticLib.dll

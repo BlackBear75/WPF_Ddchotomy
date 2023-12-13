@@ -1,0 +1,56 @@
+﻿<Window x:Class="Polinom_Interpolation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Курсова" Height="450" Width="800">
+    <Grid>
+
+        <Menu>
+            <MenuItem Header="Файл" Margin="3,0,0,0">
+                <MenuItem Header="Новий набір даних" Click="NewDataset_Click"/>
+                <MenuItem Header="Загрузати набір даних" Click="LoadDataset_Click"/>
+                <MenuItem Header="Сохранити набір даних" Click="SaveDataset_Click"/>
+
+                <MenuItem Header="Сохранити в HTML" Click="GenerateHtmlReport_Click"/>
+                <MenuItem Header="Вихід" Click="Exit_Click"/>
+            </MenuItem>
+            <MenuItem Header="Розв'язки">
+                <MenuItem Header="Розв'язати рівняння" Click="SolveEquation_Click"/>
+                <MenuItem Header="Показати графік" Click="ShowGraph_Click"/>
+            </MenuItem>
+            <MenuItem Header="Переглянути">
+                <MenuItem Header="Звіт" Click="GenerateReport_Click"/>
+                <MenuItem Header="Автор" Click="ShowAuthorInfo_Click"/>
+                <MenuItem Header="Звіт HTML" Click="Report_HTML_Click"/>
+            </MenuItem>
+            <MenuItem Header="Допомога" Click="Help_Click">
+              
+            </MenuItem>
+        </Menu>
+
+        <StackPanel Margin="10,24,10,10">
+            <TextBlock Text="Уведіть коофіціенти полінома (через пробіл):" Height="19"/>
+            <TextBox x:Name="coefficientsTextBox" Text=""/>
+
+            <TextBlock Text="Уведіть кількість точок:"/>
+            <TextBox x:Name="numberOfPointsTextBox" Text=""/>
+            
+            <TextBlock Text="Уведіть точки (X Y пари, через пробіл):"/>
+            <TextBox x:Name="pointsTextBox" Text=""/>
+
+            <TextBlock Text="Уведіть Інтервал ( старт (пробіл) кінець ):"/>
+            <TextBox x:Name="intervalTextBox" Text=""/>
+
+            <TextBlock Text="Уведіть Точність:"/>
+            <TextBox x:Name="precisionTextBox" Text="" />
+
+            
+          
+            <Button Content="Розв'язати рівняння" Click="SolveEquation_Click"  Margin="0,10,0,0" Background="#FF00ACFF"/>
+
+            <TextBlock x:Name="resultTextBlock" Text="Робота програми відображається тут" Margin="10"/>
+            <Button Content="Показати графік" Click="ShowGraph_Click" Background="#FFF6FF00"/>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

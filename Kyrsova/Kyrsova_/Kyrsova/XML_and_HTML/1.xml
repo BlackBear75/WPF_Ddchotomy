@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Coefficients>1 2 </Coefficients>
+  <NumberOfPoints>3</NumberOfPoints>
+  <Points>1 2 3 1 3 4</Points>
+  <Interval>1 10</Interval>
+  <Precision>1</Precision>
+</Dataset>

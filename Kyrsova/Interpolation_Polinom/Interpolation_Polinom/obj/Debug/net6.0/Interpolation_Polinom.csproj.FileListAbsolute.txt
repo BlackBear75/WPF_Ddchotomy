@@ -1,0 +1,11 @@
+E:\Kyrsova_Semestr_3\Kyrsova\Interpolation_Polinom\Interpolation_Polinom\bin\Debug\net6.0\Interpolation_Polinom.deps.json
+E:\Kyrsova_Semestr_3\Kyrsova\Interpolation_Polinom\Interpolation_Polinom\bin\Debug\net6.0\Interpolation_Polinom.dll
+E:\Kyrsova_Semestr_3\Kyrsova\Interpolation_Polinom\Interpolation_Polinom\bin\Debug\net6.0\Interpolation_Polinom.pdb
+E:\Kyrsova_Semestr_3\Kyrsova\Interpolation_Polinom\Interpolation_Polinom\obj\Debug\net6.0\Interpolation_Polinom.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kyrsova_Semestr_3\Kyrsova\Interpolation_Polinom\Interpolation_Polinom\obj\Debug\net6.0\Interpolation_Polinom.AssemblyInfoInputs.cache
+E:\Kyrsova_Semestr_3\Kyrsova\Interpolation_Polinom\Interpolation_Polinom\obj\Debug\net6.0\Interpolation_Polinom.AssemblyInfo.cs
+E:\Kyrsova_Semestr_3\Kyrsova\Interpolation_Polinom\Interpolation_Polinom\obj\Debug\net6.0\Interpolation_Polinom.csproj.CoreCompileInputs.cache
+E:\Kyrsova_Semestr_3\Kyrsova\Interpolation_Polinom\Interpolation_Polinom\obj\Debug\net6.0\Interpolation_Polinom.dll
+E:\Kyrsova_Semestr_3\Kyrsova\Interpolation_Polinom\Interpolation_Polinom\obj\Debug\net6.0\refint\Interpolation_Polinom.dll
+E:\Kyrsova_Semestr_3\Kyrsova\Interpolation_Polinom\Interpolation_Polinom\obj\Debug\net6.0\Interpolation_Polinom.pdb
+E:\Kyrsova_Semestr_3\Kyrsova\Interpolation_Polinom\Interpolation_Polinom\obj\Debug\net6.0\ref\Interpolation_Polinom.dll

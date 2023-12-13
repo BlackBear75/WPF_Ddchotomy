@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyrsova", "WpfApp1\Kyrsova.csproj", "{A2A4111C-7F30-46B2-BA7F-CB1C05BF83AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A4111C-7F30-46B2-BA7F-CB1C05BF83AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A4111C-7F30-46B2-BA7F-CB1C05BF83AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A4111C-7F30-46B2-BA7F-CB1C05BF83AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A4111C-7F30-46B2-BA7F-CB1C05BF83AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1304593-66A9-41D2-97B5-CDD21B8FD160}
+	EndGlobalSection
+EndGlobal

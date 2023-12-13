@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<EquationData CCoef="-2">
+  <FFunction>
+    <ACoefs>
+      <ACoef Value = "3" Index="0" />
+      <ACoef Value = "1" Index="1" />
+      <ACoef Value = "0" Index="2" />
+      <ACoef Value = "0.25" Index="3" />
+    </ACoefs>
+  </FFunction>
+  <GFunction>
+    <XYCoefs>
+      <XYCoef X = "-1" Y = "2" />
+      <XYCoef X = "1" Y = "1" />
+      <XYCoef X = "0.0" Y = "0.1" />
+    </XYCoefs>
+  </GFunction>
+</EquationData>
